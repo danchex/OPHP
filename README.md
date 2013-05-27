@@ -1,4 +1,4 @@
 OPHP
 ====
 
-An Object PHP Class Library
+An Object Oriented PHP Class Libraries...
